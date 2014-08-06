@@ -4,4 +4,6 @@ public class NewClass {
 	private int n = 3;
 	
 	private int c = 4;
+	
+	private int d = 10;
 }
