@@ -5,5 +5,5 @@ public class NewClass {
 	
 	private int c = 4;
 	
-	private int d = 10;
+	private int dd = 10;
 }
