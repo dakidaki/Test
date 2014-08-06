@@ -1,4 +1,4 @@
 
 public class NewestClass {
-	int ddd = 10;
+	int ddd = 100;
 }
